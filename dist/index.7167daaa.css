@@ -1,0 +1,68 @@
+.header {
+  background: #4b4b4b;
+  place-content: center space-around;
+  height: 156px;
+  display: flex;
+}
+
+.header-left, .header-right {
+  margin-top: 37px;
+}
+
+.header-left h1 {
+  color: #ebcb80;
+  opacity: 0px;
+  letter-spacing: .0555em;
+  text-align: center;
+  gap: 0;
+  width: 191px;
+  height: 43px;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 42.19px;
+  top: 55px;
+  left: 160px;
+}
+
+.header-right {
+  place-content: center space-around;
+  display: flex;
+}
+
+.header_content, button {
+  text-transform: uppercase;
+  display: flex;
+}
+
+.header_content ul {
+  letter-spacing: .0556em;
+  text-align: left;
+  color: #fff;
+  justify-content: space-around;
+  width: 312px;
+  height: 22px;
+  margin-top: 30px;
+  margin-right: 12px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.09px;
+  display: flex;
+}
+
+.header_content li {
+  display: inline;
+}
+
+.take {
+  color: #fff;
+  background: #4b4b4b;
+  border: 2px solid #fff;
+  border-radius: 80px;
+  justify-content: center;
+  align-items: center;
+  width: 180px;
+  height: 48px;
+  margin-top: 15px;
+  font-size: 15px;
+}
+/*# sourceMappingURL=index.7167daaa.css.map */
