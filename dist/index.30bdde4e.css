@@ -1,0 +1,18 @@
+@media only screen and (width <= 1440px) {
+  body {
+    background: #3107da;
+  }
+}
+
+@media only screen and (width <= 768px) {
+  body {
+    background: #04f91d;
+  }
+}
+
+@media only screen and (width <= 320px) {
+  body {
+    background: #ff0cf3;
+  }
+}
+/*# sourceMappingURL=index.30bdde4e.css.map */
